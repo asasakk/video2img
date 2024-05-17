@@ -1,4 +1,4 @@
-GPT3.5による生成です
+このMarkDownファイルはGPT3.5による生成です
 
 # Movie Frame Extractor
 
